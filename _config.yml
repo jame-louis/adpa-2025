@@ -1,9 +1,9 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Android程序设计与应用
+course_description: "本课程介绍Android平台的基本概念和开发环境，以及如何使用Java语言编写Android应用程序。"
+course_semester: "Fall 2025"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
+baseurl: "/adpa-2025" # the subpath of your site, e.g. /blog/
 url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Hogwarts"
