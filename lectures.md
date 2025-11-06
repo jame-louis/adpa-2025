@@ -3,4 +3,4 @@ layout: lectures
 title: Lectures
 permalink: /lectures/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+您可以在此处下载讲义。我们将尽量在对应课程开始前上传讲义。

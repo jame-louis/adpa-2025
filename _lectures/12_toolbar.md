@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 2025-11-06T8:22:00+8:00
 title: Tool Bar 组件
 tldr: "本讲介绍了 Tool Bar 组件的基本用法。"
 thumbnail: /static_files/presentations/lec.jpg
@@ -12,6 +12,6 @@ links:
     - url: /static_files/presentations/Toolbar.pptx
       name: slides
 ---
-**Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+**推荐阅读：**
+- [toolbar in android with example](https://www.geeksforgeeks.org/android/toolbar-in-android-with-example/)
+- [action bar in android with example](https://www.geeksforgeeks.org/android/actionbar-in-android-with-example/)
