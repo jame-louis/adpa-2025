@@ -1,0 +1,9 @@
+- title: "Hello World"
+  description: "A simple Android app that displays 'Hello World!' on the screen."
+  url: "https://jame-louis.github.io/android-project-template"
+  image: "https://jame-louis.github.io/android-project-template/assets/images/hello-world.png"
+
+- title: "React Weather App"
+  description: "A responsive weather app built with React and OpenWeather API."
+  url: "https://jame-louis.github.io/android-project-template"
+  image: "https://jame-louis.github.io/android-project-template/assets/images/hello-world.png"
